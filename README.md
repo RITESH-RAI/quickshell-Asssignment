@@ -1,18 +1,5 @@
 # Assignment-QuickShell
-Assignment-QuickShell
-# Frontend-page
-Assignment
-Preview: 
-![Display state](https://github.com/GoodGuyPJ/Frontend-page/assets/127659680/8106c29d-8014-43b9-9229-50cc231a7523)
-![Group](https://github.com/GoodGuyPJ/Frontend-page/assets/127659680/30b2f49b-ecec-4bb7-a5ff-40e47e902246)
-![display](https://github.com/GoodGuyPJ/Frontend-page/assets/127659680/eaaae3ee-a4e9-48a0-8f2d-1e4167d89c23)
 
-working Video:
-
-https://github.com/GoodGuyPJ/Frontend-page/assets/127659680/1c2720f3-48f2-400a-89f6-5b29dc594db4
-
-
-API from  https://api.quicksell.co/v1/internal/frontend-assignment
 
 When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
 
